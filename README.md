@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <p>后端语言🌟</p>
     <img src="https://skillicons.dev/icons?i=c,cpp,java,go" />
   </a>
 </p>
