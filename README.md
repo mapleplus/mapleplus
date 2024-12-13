@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Irish+Grover&size=40&duration=3000&pause=1000&color=36F71C&background=6E396D&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E7%9C%9F%E7%9A%84&width=1000&height=80&lines=%F0%9F%8D%81Welcome+to+Mapleplus!+This+is+my+Github" alt="Typing SVG" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapleplus&count_private=true&show_icons=true&theme=yeblu&hide_title=false&rank_icon=github&line_height=30&include_all_commits=true&number_formatshort&&card_width=1000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapleplus&layout=donut-vertical&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapleplus&layout=donut-vertical&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mapleplus)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>前端语言🌶️</p>
