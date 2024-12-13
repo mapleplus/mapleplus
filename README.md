@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapleplus&count_private=true&show_icons=true&theme=yeblu)
-<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapleplus)](https://github.com/mapleplus/github-readme-stats)
 **mapleplus/mapleplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
