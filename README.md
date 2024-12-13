@@ -5,8 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapleplus&count_private=true&show_icons=true&theme=yeblu&hide_title=false&rank_icon=github&line_height=30&include_all_commits=true&number_formatshort&&card_width=1000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapleplus&layout=donut-vertical&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mapleplus&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mapleplus)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>前端语言🌶️</p>
 <p align="center">
