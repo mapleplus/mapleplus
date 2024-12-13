@@ -1,11 +1,10 @@
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=200&section=header&text=MaplePlus%20Github&fontColor=55ff55&fontSize=90&&animation=fadeIn&&textBg=false&stroke=00FFFF&strokeWidth=3" />
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Irish+Grover&size=40&duration=3000&pause=1000&color=36F71C&background=6E396D&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E7%9C%9F%E7%9A%84&width=1000&height=80&lines=%F0%9F%8D%81Welcome+to+Mapleplus!+This+is+my+Github" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Irish+Grover&size=50&duration=2000&pause=1000&color=6147F7&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E7%9C%9F%E7%9A%84&width=1000&height=80&lines=Welcome+to+Mapleplus!+This+is+my+Github" alt="Typing SVG" /></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapleplus&count_private=true&show_icons=true&theme=yeblu&hide_title=false&rank_icon=github&line_height=30&include_all_commits=true&number_formatshort&&card_width=1000)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mapleplus)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapleplus&layout=donut-vertical&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapleplus&count_private=true&show_icons=true&theme=yeblu&hide_title=false&rank_icon=github&line_height=55&include_all_commits=true&number_formatshort&&card_width=460&border_radius=4.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapleplus&theme=ambient_gradient&layout=pie&hide_title=false&card_width=460)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mapleplus&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p>前端语言🌶️</p>
