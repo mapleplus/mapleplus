@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Irish+Grover&size=50&duration=2000&pause=1000&color=6147F7&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E7%9C%9F%E7%9A%84&width=1000&height=80&lines=Welcome+to+Mapleplus!+This+is+my+Github" alt="Typing SVG" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapleplus&count_private=true&show_icons=true&theme=yeblu&rank_icon=github&&line_height=55&include_all_commits=true&number_formatshort=short&border_radius=4.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapleplus&theme=ambient_gradient&layout=pie&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapleplus&theme=ambient_gradient&layout=pie&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mapleplus&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p>前端语言🌶️</p>
