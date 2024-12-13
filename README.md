@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapleplus&count_private=true&show_icons=true&theme=yeblu)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapleplus&layout=compact)](https://github.com/mapleplus/github-readme-stats)
 
-<img src="https://img.shields.io/badge/-HTML5?style=flat-square&logo=go&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-HTML5?style=flat-square&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-CSS3?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-JavaScript?style=flat-square&logo=javascript" />
 <img alt="Static Badge" src="https://img.shields.io/badge/:">
