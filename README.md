@@ -1,6 +1,5 @@
-<div>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Irish+Grover&size=35&pause=1000&color=95F737&background=6D35FF00&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Welcome+to+MaplePlus!)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Irish+Grover&size=35&pause=1000&color=95F737&background=6D35FF00&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Welcome+to+MaplePlus!)](https://git.io/typing-svg)
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapleplus&count_private=true&show_icons=true&theme=yeblu)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapleplus&layout=compact)](https://github.com/mapleplus/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mapleplus&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
