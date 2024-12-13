@@ -1,10 +1,10 @@
 <p>
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Irish+Grover&size=40&duration=3000&pause=1000&color=36F71C&background=6E396D&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E7%9C%9F%E7%9A%84&width=800&height=80&lines=%F0%9F%8D%81Welcome+to+Mapleplus!+This+is+my+Github" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Irish+Grover&size=40&duration=3000&pause=1000&color=36F71C&background=6E396D&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E7%9C%9F%E7%9A%84&width=1000&height=80&lines=%F0%9F%8D%81Welcome+to+Mapleplus!+This+is+my+Github" alt="Typing SVG" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapleplus&count_private=true&show_icons=true&theme=yeblu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapleplus&layout=compact)](https://github.com/mapleplus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mapleplus&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p>前端语言🌶️</p>
 <p align="center">
