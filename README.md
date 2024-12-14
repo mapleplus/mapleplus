@@ -3,7 +3,7 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapleplus&count_private=true&show_icons=true&theme=yeblu&rank_icon=github&&line_height=55&include_all_commits=true&number_formatshort=short&border_radius=4.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapleplus&theme=ambient_gradient&layout=pie&card_width=380)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapleplus&theme=ambient_gradient&layout=pie&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mapleplus&theme=merko&area=true&hide_border=true&radius=5&grid=false&bg_color=000031&days=30)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p>前端语言🌶️</p>
