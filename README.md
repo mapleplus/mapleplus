@@ -1,5 +1,5 @@
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=200&section=header&text=MaplePlus%20Github&fontColor=6666ff&fontSize=90&&animation=fadeIn&&textBg=false&stroke=44f88&strokeWidth=3" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=200&section=header&text=MaplePlus%20Github&fontColor=0011ff&fontSize=90&&animation=fadeIn&textBg=false&strokeWidth=3" />
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapleplus&count_private=true&show_icons=true&theme=yeblu&rank_icon=github&&line_height=55&include_all_commits=true&number_formatshort=short&border_radius=4.5)
